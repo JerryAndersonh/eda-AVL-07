@@ -2,7 +2,7 @@
 
 Este proyecto implementa un Árbol AVL en Java como parte del laboratorio de estructuras de datos. Se desarrollaron tres ejercicios principales, cubriendo inserción, eliminación, recorridos, balanceo y visualización del árbol.
 
-## 📘 Ejercicio 1: Dinámica de inserción y eliminación
+## Ejercicio 1: Dinámica de inserción y eliminación
 
 - **Inserciones realizadas**:  
   `100, 200, 300, 400, 500, 50, 25, 350, 375, 360, 355, 150, 175, 120, 190`
@@ -21,7 +21,7 @@ Este proyecto implementa un Árbol AVL en Java como parte del laboratorio de est
 
 ---
 
-## 🧩 Ejercicio 2: Implementación completa del árbol AVL
+## Ejercicio 2: Implementación completa del árbol AVL
 
 Se implementaron los siguientes métodos usando clases genéricas:
 
@@ -42,7 +42,7 @@ Se implementaron los siguientes métodos usando clases genéricas:
 
 ---
 
-## 🌳 Ejercicio 3: Visualización del árbol
+## Ejercicio 3: Visualización del árbol
 
 - Se desarrolló un método para **graficar el árbol AVL** completo.
 - Se utilizaron **clases y métodos genéricos**.
@@ -54,14 +54,14 @@ Se implementaron los siguientes métodos usando clases genéricas:
 
 ---
 
-## 📌 Notas
+## Notas
 
 - Este trabajo fue desarrollado como parte del curso de **Estructuras de Datos y Algoritmos**.
 - El código es modular, con separación clara de clases, recorridos, balanceos y visualización.
 
 ---
 
-## 🧑‍💻 Autor
+## Autor
 
 **Jerry Anderson Huaynacho Mango**  
 Escuela Profesional de Ingeniería de Sistemas  
